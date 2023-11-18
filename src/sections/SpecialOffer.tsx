@@ -1,5 +1,7 @@
+// @ts-ignore
 import { offer } from '../assets/images';
 import Button from '../components/Button';
+// @ts-ignore
 import { arrowRight } from '../assets/icons';
 
 const SpecialOffer = () => {

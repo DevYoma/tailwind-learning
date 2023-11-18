@@ -1,5 +1,7 @@
+// @ts-ignore
 import { footerLogo } from '../assets/images'
 import { footerLinks, socialMedia } from '../constants'
+// @ts-ignore
 import { copyrightSign } from '../assets/icons'
 
 const Footer = () => {

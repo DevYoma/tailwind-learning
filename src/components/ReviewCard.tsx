@@ -1,3 +1,4 @@
+// @ts-ignore
 import { star } from '../assets/icons'
 
 type Props = {
